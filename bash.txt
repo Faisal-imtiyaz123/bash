@@ -1,0 +1,4 @@
+bash is great
+bash is really great
+BASH
+I am a great programmer
