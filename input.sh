@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-name="faisal"
+
+read -p 'Enter your name: ' name
 echo "hello $name"
