@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 
-read -p 'Enter comment: ' comment
-
+comment=$1
 git add . && git commit -m "$comment" && git push
